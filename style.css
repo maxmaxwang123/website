@@ -1,18 +1,26 @@
 
-body {
+
+	body {
 	text-align: center;
 	background: url("url");
 	color: yellow;
 	background-size: cover;
 	background-position: center;
-}
-img {
+	}
+	img {
 	width: 50px;
 	height: 50px;
 	margin: 40px 0px 0px 0px;
-}
-ul {
+	}
+	ul {
 	padding: 10x;
 	background: black;
-}
-	
+	}
+	header {
+	background:url("https://i.imgur.com/gj3scEW_d.jpg?maxwidth=520&shape=thumb&fidelity=high");
+	Background-size: cover;
+	Color: white;
+	}
+	a {
+	color: white;
+	}
